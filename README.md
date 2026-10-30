@@ -2,11 +2,19 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Pygame](https://img.shields.io/badge/pygame-2.5+-green.svg)](https://www.pygame.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen.svg)](https://durgesh0314.github.io/solar-system/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An interactive, visually captivating desktop simulation of our solar system built with **Python** and **Pygame**. 
+An interactive, visually captivating simulation of our solar system available as a **Native Python Desktop App (Pygame)** and deployed live on the web at **[https://durgesh0314.github.io/solar-system/](https://durgesh0314.github.io/solar-system/)**.
 
 This project is a native Python re-implementation and enhancement of the web-based project [CogniSolver/solar-system](https://github.com/CogniSolver/solar-system). It brings the celestial dance of planets to the desktop with rich physics, smooth camera zoom and panning, planetary day/night terminator shading, real-time facts, and high-resolution textures.
+
+---
+
+## 🌐 Live Web Demo
+
+Visit the deployed web version directly in any web browser:
+👉 **[https://durgesh0314.github.io/solar-system/](https://durgesh0314.github.io/solar-system/)**
 
 ---
 
@@ -147,3 +155,4 @@ solar-system/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
